@@ -75,3 +75,4 @@ Os seguintes blocos tiveram apenas um número limitado de cópias:
 Observe também que os discos comerciais podem estar usando truques de proteção contra cópia que não podem ser representados em imagens `.D64`. Você precisará de imagens `.G64` para isso. Você pode usar esta ferramenta nas versões `.D64`, para que ela possa dizer qual arquivo `.G64` correspondente é provavelmente o correto. Se a ferramenta criar um "result.d64" combinado, crie manualmente um arquivo `.G64` correto a partir dele.
 
 Houve apenas testes limitados, especialmente em imagens com erros. Use por sua conta e risco e verifique os resultados manualmente, especialmente no caso 4!# Reconstrucao64
+# Reconstrucao64
